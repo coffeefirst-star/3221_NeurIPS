@@ -1,0 +1,12 @@
+SMILES,Title,Actividad,IC50
+Cn1cnc2ncn(Cc3nn(C[C@@H](F)c4ccc(Cl)cc4)c(=O)o3)c(=O)c12,BD-2654,0,3831
+Cn1cnc2ncn(Cc3nn([C@H]4C[C@@H](C4)c4ccccc4)c(=O)o3)c(=O)c12,BD-2042,0,168
+Cn1cnc2ncn(Cc3nn([C@H]4C[C@@H](C4)Oc4cccc(F)c4)c(=O)o3)c(=O)c12,BD-682,1,11.5
+Cn1cnc2ncn(Cc3nn(C[C@H](F)c4ccc(Cl)cc4)c(=O)o3)c(=O)c12,BD-993,1,20
+Cn1cnc2ncn(Cc3nn([C@H]4C[C@@H](C4)c4ccc(Cl)cc4)c(=O)o3)c(=O)c12,BD-478,1,7.4
+Cn1cnc2ncn(Cc3nn([C@H]4C[C@@H](C4)Oc4ccc(Cl)cc4)c(=O)o3)c(=O)c12,BD-2415,0,785
+Cn1cnc2ncn(Cc3nn(CCc4ccc(cc4)C#N)c(=O)o3)c(=O)c12,BD-2476,0,1172
+Cn1cnc2ncn(Cc3nn(CCc4ccc(Br)c(Cl)c4)c(=O)o3)c(=O)c12,BD-1956,0,132
+Cn1cnc2ncn(Cc3nn(C[C@@H](F)c4ccc(Br)cc4)c(=O)o3)c(=O)c12,BD-2480,0,1200
+Cn1cnc2ncn(Cc3nn([C@H]4C[C@@H](C4)Oc4cccc(c4)C#N)c(=O)o3)c(=O)c12,BD-1440,1,45.5
+Cn1cnc2ncn(Cc3nn(C[C@H](F)c4ccc(Br)cc4)c(=O)o3)c(=O)c12,BD-624,1,10
